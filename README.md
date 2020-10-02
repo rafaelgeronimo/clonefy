@@ -30,6 +30,7 @@ yarn install
 
 ### Execução
 Após a instalação das dependências, basta executar o comando abaixo no terminal para que o projeto seja executado no navegador padrão:
+
 **npm**
 ```
 npm start
